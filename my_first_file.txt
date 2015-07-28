@@ -1,0 +1,3 @@
+I am creating a text file manually so that Git has something to work on.
+There really isn't anything of value here, just some random musings to
+give the tool some date-r to work on.
